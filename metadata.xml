@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="https://schema.datacite.org/meta/kernel-4.3/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://schema.datacite.org/meta/kernel-4.3/ https://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<identifier identifierType="DOI">10.1371/journal.pone.0154474</identifier>
+<creators>
+	<creator>
+		<creatorName nameType="Personal">Jamie E. McFadden-Hiller</creatorName>
+		<givenName>Jamie E.</givenName>
+		<familyName>McFadden-Hiller</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">0000-0003-4954-5725</nameIdentifier>
+		<affiliation xml:lang="en">Forest and Wildlife Research Center at Mississippi State University</affiliation>
+	</creator>
+	<creator>
+		<creatorName>Dean E. Beyer Jr.</creatorName>
+		<givenName>Dean E., Jr.</givenName>
+		<familyName>Beyer</familyName>
+		<affiliation xml:lang="en">Michigan Department of Natural Resources</affiliation>
+	</creator>
+	<creator>
+		<creatorName>Jerrold L. Belant</creatorName>
+		<givenName>Jerrold L.</givenName>
+		<familyName>Belant</familyName>
+		<affiliation xml:lang="en">Forest and Wildlife Research Center at Mississippi State University</affiliation>
+	</creator>
+</creators>
+<titles>
+	<title xml:lang="en">Spatial Distribution of Black Bear Incident Reports in Michigan</title>
+</titles>
+<publisher>Public Library of Science</publisher>
+<publicationYear>2016</publicationYear>
+<resourceType resourceTypeGeneral="Dataset"></resourceType>
+<subjects>
+	<subject xml:lang="en">Δ AIC 8.99 units</subject>
+	<subject xml:lang="en">anthropogenic variables</subject>
+	<subject xml:lang="en">incident occurrence</subject>
+	<subject xml:lang="en">wildlife managers</subject>
+	<subject xml:lang="en">Normalized Difference Vegetation Index</subject>
+	<subject xml:lang="en">Black Bear Incident Reports</subject>
+	<subject>6.5- km 2</subject>
+	<subject xml:lang="en">model</subject>
+	<subject xml:lang="en">USA</subject>
+	<subject subjectScheme="wikidata" schemeURI="https://www.wikidata.org/wiki/" xml:lang="en" valueURI="Q122783">American Black Bear</subject>
+	<subject schemeURI="https://www.wikidata.org/wiki/" xml:lang="en" valueURI="Q1166">Michigan</subject>
+</subjects>
+<dates>
+	<date dateType="Issued">2016-04-27 07:15:24</date>
+</dates>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="URL">https://plos.figshare.com/articles/dataset/Spatial_Distribution_of_Black_Bear_Incident_Reports_in_Michigan/3208564</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>application/xlsx+zip</format>
+</formats>
+<rightsList>
+    <rights
+        xml:lang="en-US"
+        schemeURI="https://spdx.org/licenses/"
+        rightsIdentifierScheme="SPDX"
+        rightsIdentifier="CC-BY-4.0"
+        rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode"
+    />
+</rightsList>
+<descriptions>
+	<description descriptionType="Abstract">Interactions between humans and carnivores have existed for centuries due to competition for food and space. American black bears are increasing in abundance and populations are expanding geographically in many portions of its range, including areas that are also increasing in human density, often resulting in associated increases in human-bear conflict (hereafter, bear incidents). We used public reports of bear incidents in Michigan, USA, from 2003–2011 to assess the relative contributions of ecological and anthropogenic variables in explaining the spatial distribution of bear incidents and estimated the potential risk of bear incidents. We used weighted Normalized Difference Vegetation Index mean as an index of primary productivity, region (i.e., Upper Peninsula or Lower Peninsula), primary and secondary road densities, and percentage land cover type within 6.5-km2 circular buffers around bear incidents and random points. We developed 22 a priori models and used generalized linear models and Akaike’s Information Criterion (AIC) to rank models. The global model was the best compromise between model complexity and model fit (w = 0.99), with a ΔAIC 8.99 units from the second best performing model. We found that as deciduous forest cover increased, the probability of bear incident occurrence increased. Among the measured anthropogenic variables, cultivated crops and primary roads were the most important in our AIC-best model and were both positively related to the probability of bear incident occurrence. The spatial distribution of relative bear incident risk varied markedly throughout Michigan. Forest cover fragmented with agriculture and other anthropogenic activities presents an environment that likely facilitates bear incidents. Our map can help wildlife managers identify areas of bear incident occurrence, which in turn can be used to help develop strategies aimed at reducing incidents. Researchers and wildlife managers can use similar mapping techniques to assess locations of specific conflict types or to address human impacts on endangered species.</description>
+</descriptions>
+<fundingReferences>
+	<fundingReference>
+		<funderName>Mississippi State University</funderName>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Michigan Department of Natural Resources</funderName>
+	</fundingReference>
+</fundingReferences>
+</resource>
