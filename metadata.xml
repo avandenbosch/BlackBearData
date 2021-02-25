@@ -43,6 +43,7 @@
 </subjects>
 <dates>
 	<date dateType="Issued">2016-04-27 07:15:24</date>
+	<date dateType="Collected">2003/2015</date>
 </dates>
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="URL">https://plos.figshare.com/articles/dataset/Spatial_Distribution_of_Black_Bear_Incident_Reports_in_Michigan/3208564</alternateIdentifier>
@@ -62,6 +63,29 @@
 <descriptions>
 	<description descriptionType="Abstract">Interactions between humans and carnivores have existed for centuries due to competition for food and space. American black bears are increasing in abundance and populations are expanding geographically in many portions of its range, including areas that are also increasing in human density, often resulting in associated increases in human-bear conflict (hereafter, bear incidents). We used public reports of bear incidents in Michigan, USA, from 2003–2011 to assess the relative contributions of ecological and anthropogenic variables in explaining the spatial distribution of bear incidents and estimated the potential risk of bear incidents. We used weighted Normalized Difference Vegetation Index mean as an index of primary productivity, region (i.e., Upper Peninsula or Lower Peninsula), primary and secondary road densities, and percentage land cover type within 6.5-km2 circular buffers around bear incidents and random points. We developed 22 a priori models and used generalized linear models and Akaike’s Information Criterion (AIC) to rank models. The global model was the best compromise between model complexity and model fit (w = 0.99), with a ΔAIC 8.99 units from the second best performing model. We found that as deciduous forest cover increased, the probability of bear incident occurrence increased. Among the measured anthropogenic variables, cultivated crops and primary roads were the most important in our AIC-best model and were both positively related to the probability of bear incident occurrence. The spatial distribution of relative bear incident risk varied markedly throughout Michigan. Forest cover fragmented with agriculture and other anthropogenic activities presents an environment that likely facilitates bear incidents. Our map can help wildlife managers identify areas of bear incident occurrence, which in turn can be used to help develop strategies aimed at reducing incidents. Researchers and wildlife managers can use similar mapping techniques to assess locations of specific conflict types or to address human impacts on endangered species.</description>
 </descriptions>
+<geoLocations>
+	<geoLocation>
+		<geoLocationPlace>Michigan</geoLocationPlace>
+		<geoLocationPolygon>
+			<polygonPoint>
+				<pointLongitude>82°7&apos;22&quot;W</pointLongitude>
+				<pointLatitude>43°35&apos;28&quot;N</pointLatitude>
+			</polygonPoint>
+			<polygonPoint>
+				<pointLongitude>88°22&apos;11&quot;W</pointLongitude>
+				<pointLatitude>48°18&apos;21&quot;N</pointLatitude>
+			</polygonPoint>
+			<polygonPoint>
+				<pointLongitude>84°48&apos;22&quot;W</pointLongitude>
+				<pointLatitude>41°41&apos;46&quot;N</pointLatitude>
+			</polygonPoint>
+			<polygonPoint>
+				<pointLongitude>90°25&apos;7&quot;W</pointLongitude>
+				<pointLatitude>46°33&apos;58&quot;N</pointLatitude>
+			</polygonPoint>
+		</geoLocationPolygon>
+	</geoLocation>
+</geoLocations>
 <fundingReferences>
 	<fundingReference>
 		<funderName>Mississippi State University</funderName>
