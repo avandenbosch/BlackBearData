@@ -1,5 +1,5 @@
-# LIS4220-BlackBearData
-This README.md file was generated on 2021-02-25 by Adrienne VandenBosch for LIS 4220: Data Curation
+# BlackBearData
+This README.md file was generated on 2021-02-25 by Adrienne VandenBosch
 
 
 
