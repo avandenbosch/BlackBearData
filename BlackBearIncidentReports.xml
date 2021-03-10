@@ -68,20 +68,20 @@
 		<geoLocationPlace>Michigan</geoLocationPlace>
 		<geoLocationPolygon>
 			<polygonPoint>
-				<pointLongitude>82°7&apos;22&quot;W</pointLongitude>
-				<pointLatitude>43°35&apos;28&quot;N</pointLatitude>
+				<pointLongitude>-82.122778</pointLongitude>
+				<pointLatitude>43.591111</pointLatitude>
 			</polygonPoint>
 			<polygonPoint>
-				<pointLongitude>88°22&apos;11&quot;W</pointLongitude>
-				<pointLatitude>48°18&apos;21&quot;N</pointLatitude>
+				<pointLongitude>-88.369722</pointLongitude>
+				<pointLatitude>48.305833</pointLatitude>
 			</polygonPoint>
 			<polygonPoint>
-				<pointLongitude>84°48&apos;22&quot;W</pointLongitude>
-				<pointLatitude>41°41&apos;46&quot;N</pointLatitude>
+				<pointLongitude>-84.806111</pointLongitude>
+				<pointLatitude>41.696111</pointLatitude>
 			</polygonPoint>
 			<polygonPoint>
-				<pointLongitude>90°25&apos;7&quot;W</pointLongitude>
-				<pointLatitude>46°33&apos;58&quot;N</pointLatitude>
+				<pointLongitude>-90.418611</pointLongitude>
+				<pointLatitude>46.566111</pointLatitude>
 			</polygonPoint>
 		</geoLocationPolygon>
 	</geoLocation>
