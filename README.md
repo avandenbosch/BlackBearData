@@ -8,6 +8,7 @@ GENERAL INFORMATION
 1. Title of Dataset: Spatial Distribution of Black Bear Incident Reports in Michigan
 
 2. Author Information
+	
 	A. Principal Investigator Contact Information
 		
 		Name: Jamie E. McFadden-Hiller
