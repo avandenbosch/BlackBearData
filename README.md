@@ -3,7 +3,7 @@ This README.md file was generated on 2021-02-25 by Adrienne VandenBosch
 
 
 
-GENERAL INFORMATION
+###GENERAL INFORMATION
 
 1. Title of Dataset: Spatial Distribution of Black Bear Incident Reports in Michigan
 
@@ -39,7 +39,7 @@ GENERAL INFORMATION
 
 
 
-SHARING/ACCESS INFORMATION
+###SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode
 
@@ -47,11 +47,11 @@ SHARING/ACCESS INFORMATION
 
 3. Links to other publicly accessible locations of the data: https://figshare.com/articles/dataset/Spatial_Distribution_of_Black_Bear_Incident_Reports_in_Michigan/3208564?file=5037811 
 
-4. Recommended citation for this dataset: McFadden-Hiller, J. E., Beyer, D. E. Jr., & Belant, J. L. (2016) Spatial Distribution of Black Bear Incident Reports in Michigan [data set]. Available as Supporting Information for: _PLoS ONE 11(4): e0154474. https://doi.org/10.1371/journal.pone.0154474
+4. Recommended citation for this dataset: McFadden-Hiller, J. E., Beyer, D. E. Jr., & Belant, J. L. (2016) Spatial Distribution of Black Bear Incident Reports in Michigan [data set]. Available as Supporting Information for: PLoS ONE 11(4): e0154474. https://doi.org/10.1371/journal.pone.0154474
 
 
 
-DATA & FILE OVERVIEW
+###DATA & FILE OVERVIEW
 
 1. File List: 
 BlackBearIR_Metadata.xml, 	metadata for the dataset
@@ -64,7 +64,7 @@ BlackBearIR_Report.docx, 	Profile of the dataset and original metadata, chosen r
 
 
 
-DATA-SPECIFIC INFORMATION FOR: BlackBearIR_S1Dataset.xlsx
+####DATA-SPECIFIC INFORMATION FOR: BlackBearIR_S1Dataset.xlsx
 
 1. Number of variables: 24
 
@@ -122,7 +122,7 @@ DATA-SPECIFIC INFORMATION FOR: BlackBearIR_S1Dataset.xlsx
 
 
 
-DATA-SPECIFIC INFORMATION FOR: BlackBeaIR_S2Dataset.xlsx
+####DATA-SPECIFIC INFORMATION FOR: BlackBeaIR_S2Dataset.xlsx
 
 1. Number of variables: 24
 
