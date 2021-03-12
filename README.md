@@ -3,7 +3,7 @@ This README.md file was generated on 2021-02-25 by Adrienne VandenBosch
 
 
 
-###GENERAL INFORMATION
+### GENERAL INFORMATION
 
 1. Title of Dataset: Spatial Distribution of Black Bear Incident Reports in Michigan
 
@@ -39,7 +39,7 @@ This README.md file was generated on 2021-02-25 by Adrienne VandenBosch
 
 
 
-###SHARING/ACCESS INFORMATION
+### SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode
 
@@ -51,7 +51,7 @@ This README.md file was generated on 2021-02-25 by Adrienne VandenBosch
 
 
 
-###DATA & FILE OVERVIEW
+### DATA & FILE OVERVIEW
 
 1. File List: 
 BlackBearIR_Metadata.xml, 	metadata for the dataset
@@ -64,7 +64,7 @@ BlackBearIR_Report.docx, 	Profile of the dataset and original metadata, chosen r
 
 
 
-####DATA-SPECIFIC INFORMATION FOR: BlackBearIR_S1Dataset.xlsx
+#### DATA-SPECIFIC INFORMATION FOR: BlackBearIR_S1Dataset.xlsx
 
 1. Number of variables: 24
 
@@ -122,7 +122,7 @@ BlackBearIR_Report.docx, 	Profile of the dataset and original metadata, chosen r
 
 
 
-####DATA-SPECIFIC INFORMATION FOR: BlackBeaIR_S2Dataset.xlsx
+#### DATA-SPECIFIC INFORMATION FOR: BlackBeaIR_S2Dataset.xlsx
 
 1. Number of variables: 24
 
